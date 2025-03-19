@@ -15,9 +15,8 @@ Siga os passos abaixo para clonar o repositório e instalar a extensão no Chrom
 ### 1. Clonar o Repositório
 Primeiro, abra o terminal e execute o seguinte comando:
 ```sh
-  git clone https://github.com/seu-usuario/mars.git
+  git clone https://github.com/matheusmendescosta/mars.git
 ```
-Substitua `seu-usuario` pelo nome correto do seu perfil no GitHub.
 
 ### 2. Abrir a Página de Extensões no Chrome
 No Google Chrome, acesse:
